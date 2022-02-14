@@ -18,7 +18,10 @@ n_bins=100
 #plt.savefig('fig.png')
 
 plt.figure(figsize=(8.5,6), dpi=300)
-plt.hist([rgwt,rgmut],n_bins,label=['WT','F96A'])
+
+plt.hist([rgwt],n_bins,label=['WT'],edgecolor='black',alpha=0.5)
+plt.hist([rgmut],n_bins,label=['F96A'], edgecolor='black',alpha=0.5)
+
 plt.legend(loc='upper right',fontsize=20)
 plt.xlabel('Gyradius (nm)', fontsize=20)
 plt.ylabel('# Structures', fontsize=20)
