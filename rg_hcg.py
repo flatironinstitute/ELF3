@@ -23,8 +23,12 @@ n_bins=50
 #plt.savefig('fig.png')
 
 plt.figure(figsize=(8.5,6), dpi=300)
-###Need to find an appropriate color scheme
-plt.hist([t290rg,t300rg,t320rg,t415rg],n_bins,label=['290K','300K','320K','415K'],rwidth=.9)
+
+plt.hist([t290rg],n_bins,label=['290K'],edgecolor='black')
+plt.hist([t300rg],n_bins,label=['300K'],edgecolor='black')
+plt.hist([t320rg],n_bins,label=['320K'],edgecolor='black')
+plt.hist([t415rg],n_bins,label=['415K'],edgecolor='black')
+
 plt.legend(loc='upper right',fontsize=20)
 plt.xlabel('Gyradius (nm)', fontsize=20)
 plt.ylabel('# Structures', fontsize=20)
