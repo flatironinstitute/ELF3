@@ -15,7 +15,7 @@ t300rg=md.compute_rg(t300)
 t320rg=md.compute_rg(t320)
 t415rg=md.compute_rg(t415)
 
-n_bins=100
+n_bins=50
 
 #fig, axs = plt.subplots(1,2,sharex=True, sharey=True, tight_layout=True)
 #axs[0].hist(rgwt,bins=n_bins)
