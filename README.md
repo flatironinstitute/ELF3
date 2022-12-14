@@ -21,6 +21,8 @@ Histograms of F96-Haro minimum distance for each temperature condition. WT REST2
 ## kde_plot_haro_rg.py
 Script used to create Figs 3B and 3C. This script only creates one plot and must be modified and rerun to create the whole figure.
 
+
+-------------------
 ## hcg_ipca.py
 I-PCA PC1 and PC2 plots of all HCG ensmbles. 8 subplots in a 2 column x 4 row configuration.
 
