@@ -2,6 +2,9 @@
 A place to store code used to generate figures.
 
 ## Fig 1:
+## ss_7q_0q_helix.py
+Plots helix propensity of HCG 7Q ensembles at all 4 temperatures. Haro is shaded yellow, polyQ tracts are shaded blue, F96 is marked with a dashed red line, and HN1, HN2, HN3, and HC1 are labeled.
+
 ## hcg_pc1_2col.py
 Plots E-PC1 of HCG 0Q/7Q/13Q/19Q at 290K (left) and 415K (right). Code does not align data, data files must be pre-processed to achieve this.  
 
