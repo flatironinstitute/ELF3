@@ -26,6 +26,10 @@ Script used to create Figs 3B and 3C. This script only creates one plot and must
 ## hcg_sasa.py
 Plots separate SASA plot for each HCG 0Q/7Q/13Q/19Q ensembles at 290K (no difference between temperatures). PolyQ tracts are highlighted in blue and a dashed black line denotes the average SASA value of the system.
 
+## Fig. 5:
+## 1stpeak.py
+Plots the max value of the first peak of the rdf curve for each residue. 7Q REST2 at 290K is blue and 405K is red. Haro highlighted in yellow, polyQ in blue. Does not calculate peak heights, those must be provided as input data.
+
 -------------------
 -------------------
 ## hcg_ipca.py
