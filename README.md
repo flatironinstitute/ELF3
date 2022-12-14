@@ -22,6 +22,10 @@ Histograms of F96-Haro minimum distance for each temperature condition. WT REST2
 Script used to create Figs 3B and 3C. This script only creates one plot and must be modified and rerun to create the whole figure.
 ## Fig. 3E was made with xmgrace
 
+## Fig. 4:
+## hcg_sasa.py
+Plots separate SASA plot for each HCG 0Q/7Q/13Q/19Q ensembles at 290K (no difference between temperatures). PolyQ tracts are highlighted in blue and a dashed black line denotes the average SASA value of the system.
+
 -------------------
 -------------------
 ## hcg_ipca.py
