@@ -31,6 +31,10 @@ Plots the max value of the first peak of the rdf curve for each residue. 7Q REST
 ## Fig. 5:
 ## ss_0Q_helix_per_res.py
 Helix propensity for 0Q REST2 trajectories at 4 temperatures. Haro is highlighted in yellow, polyQs in blue and deleted polyQ represented by a dashed blue line.
+## f96_haro_0Q_dist.py
+Histogram of F96-Haro for WT REST2 (black) and 0Q REST2 (gray). 
+## haro_polyq3_dist_0Q.py
+Histograms of Haro-polyQ3 distance at four different temperatures for the 0Q REST2 system.
 
 -------------------
 -------------------
