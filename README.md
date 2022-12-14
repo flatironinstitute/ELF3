@@ -28,6 +28,9 @@ Plots separate SASA plot for each HCG 0Q/7Q/13Q/19Q ensembles at 290K (no differ
 ## 1stpeak.py
 Plots the max value of the first peak of the rdf curve for each residue. 7Q REST2 at 290K is blue and 405K is red. Haro highlighted in yellow, polyQ in blue. Does not calculate peak heights, those must be provided as input data.
 
+## Fig. 5:
+## ss_0Q_helix_per_res.py
+Helix propensity for 0Q REST2 trajectories at 4 temperatures. Haro is highlighted in yellow, polyQs in blue and deleted polyQ represented by a dashed blue line.
 -------------------
 -------------------
 ## hcg_ipca.py
