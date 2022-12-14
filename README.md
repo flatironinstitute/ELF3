@@ -15,6 +15,9 @@ Plot of 7Q and 0Q helicity, including all temperatures. Creates two subplots ver
 ## rg_split.py
 Plots the RG of the first 100 residues and athe last 73 residues as histograms. Top panel is WT REST, bottom panel is F96A.
 
+## Fig 3:
+## dist_f96_haro.py
+Histograms of F96-Haro minimum distance for each temperature condition. WT REST2.
 
 ## hcg_ipca.py
 I-PCA PC1 and PC2 plots of all HCG ensmbles. 8 subplots in a 2 column x 4 row configuration.
