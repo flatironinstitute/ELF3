@@ -1,4 +1,4 @@
-# ELF3 Python Scripts
+# ELF3 Python Analysis Scripts
 A place to store code used to generate figures for the publication, "Molecular basis of polyglutamine-modulated ELF3 phase change in Arabidopsis temperature response."
 
 ## Fig 1:
