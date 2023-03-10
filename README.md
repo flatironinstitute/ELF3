@@ -3,7 +3,10 @@ A place to store code used to generate figures for the publication, "Molecular b
 
 # Contents
 ## HCG:
-## Contains python scripts and data used to generate figures pertaining to ELF3-PrD hierarchical chain growth ensembles.
+Contains python scripts and data used to generate figures pertaining to ELF3-PrD hierarchical chain growth ensembles.
+
+# REST2:
+Contains scripts and data needed to create figures pertaining to ELF3-PrD REST2 simulation data.
 
 ## hcg_pc1_2col.py
 Plots E-PC1 of HCG 0Q/7Q/13Q/19Q at 290K (left) and 415K (right). Code does not align data, data files must be pre-processed to achieve this.  
