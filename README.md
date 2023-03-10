@@ -1,5 +1,5 @@
 # ELF3 Python Scripts
-A place to store code used to generate figures.
+A place to store code used to generate figures for the publication, "Molecular basis of polyglutamine-modulated ELF3 phase change in Arabidopsis temperature response."
 
 ## Fig 1:
 ## ss_7q_0q_helix.py
