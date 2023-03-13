@@ -10,9 +10,6 @@ Plots separate SASA plot for each HCG 0Q/7Q/13Q/19Q ensembles at 290K (no differ
 PolyQ tracts are highlighted in blue and a dashed black line denotes the average SASA value of the system.
 
 # Figure S3:
-## hcg_ipca.py
-I-PCA PC1 and PC2 plots of all HCG ensmbles. 8 subplots in a 2 column x 4 row configuration.
-
 ## hcg_epca_rev.py
 
 Plots 8 sets of E-PCA data. Currently plots PC1 290K and PC2 290K for each system. All data files are avaiable in HCG_EPCA_data directory.
