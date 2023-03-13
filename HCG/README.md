@@ -13,7 +13,3 @@ PolyQ tracts are highlighted in blue and a dashed black line denotes the average
 ## hcg_epca_rev.py
 
 Plots 8 sets of E-PCA data. Currently plots PC1 290K and PC2 290K for each system. All data files are avaiable in HCG_EPCA_data directory.
-
-
-## rg_hcg.py
-Histogram of 7Q temperature-dependent radius of gyration. 
