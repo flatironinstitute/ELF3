@@ -18,8 +18,6 @@ Plots 8 sets of E-PCA data. Currently plots PC1 290K and PC2 290K for each syste
 Solvent accessible surface area for all polyQ lengths. 4 row x 1 column, only 290K plotted because all temperatures are essentially identical. 
 PolyQ region is shaded blue.
 
-## polyq_dist.py
-Plot of 7Q HCG Ca-Ca distance as a function of temperature. Four histograms on one plot.
 
 ## rg_hcg.py
 Histogram of 7Q temperature-dependent radius of gyration. 
