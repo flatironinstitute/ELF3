@@ -14,10 +14,6 @@ PolyQ tracts are highlighted in blue and a dashed black line denotes the average
 
 Plots 8 sets of E-PCA data. Currently plots PC1 290K and PC2 290K for each system. All data files are avaiable in HCG_EPCA_data directory.
 
-## hcg_sasa.py
-Solvent accessible surface area for all polyQ lengths. 4 row x 1 column, only 290K plotted because all temperatures are essentially identical. 
-PolyQ region is shaded blue.
-
 
 ## rg_hcg.py
 Histogram of 7Q temperature-dependent radius of gyration. 
