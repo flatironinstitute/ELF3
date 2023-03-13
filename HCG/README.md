@@ -1,5 +1,9 @@
 # HCG Figures
 
+# Figure 1B
+## ss_7q_alltemp_helix.py
+Plots helix probablity per residue for 7Q HCG ensembles at all temperatures.
+
 # Figure 1C
 ## hcg_pc1_2col.py
 Plots E-PC1 of HCG 0Q/7Q/13Q/19Q at 290K (left) and 415K (right). Code does not align data, data files must be pre-processed to achieve this.  
