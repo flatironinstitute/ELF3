@@ -10,6 +10,10 @@ PolyQ tracts are highlighted in blue and a dashed black line denotes the average
 ## hcg_ipca.py
 I-PCA PC1 and PC2 plots of all HCG ensmbles. 8 subplots in a 2 column x 4 row configuration.
 
+## hcg_epca_rev.py
+
+Plots 8 sets of E-PCA data. Currently plots PC1 290K and PC2 290K for each system. All data files are avaiable in HCG_EPCA_data directory.
+
 ## hcg_sasa.py
 Solvent accessible surface area for all polyQ lengths. 4 row x 1 column, only 290K plotted because all temperatures are essentially identical. 
 PolyQ region is shaded blue.
