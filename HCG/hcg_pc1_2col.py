@@ -5,10 +5,10 @@ import seaborn as sns
 
 sns.set_context("talk")
 
-q0=np.loadtxt('/mnt/home/jlindsay/ceph/elf3prd/hcg/analysis/contact/0q/290K/x.pc1')
-q7=np.loadtxt('/mnt/home/jlindsay/ceph/elf3prd/hcg/analysis/contact/7q/290K/x.pc1')
-q13=np.loadtxt('/mnt/home/jlindsay/ceph/elf3prd/hcg/analysis/contact/13q/290K/x.pc1')
-q19=np.loadtxt('/mnt/home/jlindsay/ceph/elf3prd/hcg/analysis/contact/19q/290K/x.pc1')
+q0=np.loadtxt('0Q_290K.pc1')
+q7=np.loadtxt('7Q_290K.pc1')
+q13=np.loadtxt('13Q_290K.pc1')
+q19=np.loadtxt('19Q_290K.pc1')
 
 hq0=np.loadtxt('hightemp0q.dat')
 hq7=np.loadtxt('higihtemp7q.dat')
