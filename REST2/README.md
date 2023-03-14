@@ -22,3 +22,7 @@ Haro highlighted in yellow, polyQ in blue. Does not calculate peak heights, thos
 # Fig. 5A:
 ## ss_0Q_helix_per_res.py
 Helix propensity for 0Q REST2 trajectories at 4 temperatures. Haro is highlighted in yellow, polyQs in blue and deleted polyQ represented by a dashed blue line.
+
+# Fig. 5B
+## f96_haro_0q_dist.py
+Plots a histogram of the distance between f96 and Haro for the 0Q REST trajectory.
