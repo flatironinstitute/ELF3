@@ -5,10 +5,10 @@ import numpy as np
 
 sns.set_context('talk')
 
-q290=np.loadtxt("wt290K_aro_pq3.xvg")
-q300=np.loadtxt("wt300K_aro_pq3.xvg")
-q320=np.loadtxt("wt320K_aro_pq3.xvg")
-q405=np.loadtxt("wt405K_aro_pq3.xvg")
+q290=np.loadtxt("haro_pq3_290K.xvg")
+q300=np.loadtxt("haro_pq3_300K.xvg")
+q320=np.loadtxt("haro_pq3_320K.xvg")
+q405=np.loadtxt("haro_pq3_405K.xvg")
 
 N_points=50001
 n_bins=250
@@ -27,4 +27,4 @@ plt.xlim([0,8])
 #plt.ylim([0,10000])
 plt.xticks(fontsize=20)
 plt.yticks(fontsize=20)
-plt.savefig('haro_polyq3_wt_temp.png',bbox_inches='tight')
+plt.savefig('fig2.png',bbox_inches='tight')
