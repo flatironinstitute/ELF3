@@ -26,3 +26,7 @@ Helix propensity for 0Q REST2 trajectories at 4 temperatures. Haro is highlighte
 # Fig. 5B
 ## f96_haro_0q_dist.py
 Plots a histogram of the distance between f96 and Haro for the 0Q REST trajectory.
+
+# Fig. 5C
+## haro_polyq3_dist_0Q.py
+Plots a histrogram of the distance between polyQ3 and Haro.
