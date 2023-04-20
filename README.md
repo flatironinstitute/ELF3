@@ -8,5 +8,5 @@ Contains python scripts and data used to generate figures pertaining to ELF3-PrD
 # REST2:
 Contains scripts and data needed to create figures pertaining to ELF3-PrD REST2 simulation data.
 
-#Data available at ELF3 Project Website:
+# Data available at ELF3 Project Website:
 https://www.simonsfoundation.org/molecular-dynamics-simulations-of-intrinsically-disordered-proteins/
