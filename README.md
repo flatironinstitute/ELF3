@@ -15,5 +15,7 @@ Contains scripts and data used to generate some of the figures pertaining to Mar
 https://www.simonsfoundation.org/molecular-dynamics-simulations-of-intrinsically-disordered-proteins/
 
 HCG data: https://users.flatironinstitute.org/~ccb/smbp/elf3_data/elf3prd_hcg.zip
+
 REST2 trajectories: https://zenodo.org/doi/10.5281/zenodo.13226984
+
 Martini trajectories: https://zenodo.org/doi/10.5281/zenodo.13285376
